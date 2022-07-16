@@ -1,4 +1,4 @@
 # ClonGoogle
 
-It's a clon the Google made with technologies HTML and CSS.
+This is a clone of Google Search made with HTML and CSS technologies.
 ![image text](https://github.com/BrandonHernz/ClonGoogle/blob/develop/images/result-one.png)
